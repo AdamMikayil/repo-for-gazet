@@ -1,0 +1,22 @@
+*{
+    background-color: white;
+    
+}
+
+nav{
+  background-color:lightgreen; 
+  padding: 10px;
+  position: fixed;
+  width: auto;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  color: black;
+  font-weight: bolder;
+}
+
+
+a{
+  display: block;
+
+}
